@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Anshika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshika0987&label=Profile%20views&color=0e75b6&style=flat" alt="anshika0987" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshika0987" alt="anshika0987" /></a> </p>
+
 - 🔭 I’m currently working on [FOSSCU website](https://github.com/anshika0987/website-fossc)
 
 - 🌱 I’m currently learning **Javascript & React**
@@ -24,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshika0987&show_icons=true&locale=en" alt="anshika0987" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anshika0987&" alt="anshika0987" /></p>
-
