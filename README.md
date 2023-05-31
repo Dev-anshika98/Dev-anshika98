@@ -1,34 +1,46 @@
 
-# Hi there 👋🏻 I am Anshika Gupta! 
-A passionate developer from INDIA<br>
-Welcome here  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=codecShivam)
-<br>
-<img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> <br>
-<!--
-**codecShivam/codecShivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### 💙 _Code Elegantly_ 💙
-<!-- - 🔭 I’m currently working on .. -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: It’s all 0’s and 1’s
---> I love solving errors.
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hola, Geeks! <img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" width="80"></h2>
+<h1 align="center">I'm Anshika Gupta🎤</h1>
 
-### 💻 Skill:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,javascript,git,bootstrap)](https://skillicons.dev) 
+<p align="center">I love to explore new technology🚀</p>
+<p align="center">Creating my own sunshine!! 🌈</p>
 <br>
-<br>
-### 📫 How to reach me: 
-- @Discord: Anshika#9750
-- Email: g.anshikacreativegmail.com
-- Linkdin: https://www.linkedin.com/in/anshika-gupta-597865260
-<br>
-<h3> 📊 Some stats: </h3>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=codecShivam&show_icons=true&locale=en&layout=compact" alt="shivam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codecShivam&" alt="shivam" />
-<br>
+ <p align="center"><img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> </p><br>
 
 
+<p align="center">
+<a href="https://twitter.com/Dev_anshika98?t=yej5bpzRhXBTfCEMV5tgDg&s=08" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/anshika-gupta-597865260" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://instagram.com/iam_astrid01?igshid=ZDc4ODBmNjlmNQ==" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
+
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/144/000000/html-5--v1.png" alt="Html5" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/150/000000/css3.png" alt="Css" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/144/000000/javascript--v1.png" alt="javascript" width="50" height="50"/> </a>
+  <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/144/000000/c-programming.png" alt="mysql" width="50" height="50"/> </a> 
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="50"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  
+ 
+  
+ 
+  
+  
+  
+</p>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Dev-anshika98" alt="visitor badge"/></p>
+
+<h2> 📈 &nbsp;My GitHub History!</h2>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaslyf&show_icons=true&theme=chartreuse-dark" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaslyf&theme=chartreuse-dark" />
+</p> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaslyf&show_icons=true&locale=en&layout=compact" alt="adityaslyf"/></p>
+
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
