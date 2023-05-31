@@ -12,7 +12,7 @@ Welcome here
 <!-- - 🔭 I’m currently working on .. -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 😄 Pronouns: He/Him/His
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: It’s all 0’s and 1’s
 --> I love solving errors.
 
@@ -21,9 +21,9 @@ Welcome here
 <br>
 <br>
 ### 📫 How to reach me: 
-- @Discord: ShivamYadav#5337
-- Email: codecshivam@gmail.com
-- Linkdin: https://www.linkedin.com/in/shivam-yadav-513005257/
+- @Discord: Anshika#9750
+- Email: g.anshikacreativegmail.com
+- Linkdin: https://www.linkedin.com/in/anshika-gupta-597865260
 <br>
 <h3> 📊 Some stats: </h3>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codecShivam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
