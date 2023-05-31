@@ -33,7 +33,7 @@
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adityaslyf&show_icons=true&theme=chartreuse-dark" /> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-anshika98&show_icons=true&theme=chartreuse-dark" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaslyf&theme=chartreuse-dark" />
 </p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaslyf&show_icons=true&locale=en&layout=compact" alt="adityaslyf"/></p>
