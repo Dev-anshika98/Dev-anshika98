@@ -3,7 +3,7 @@
 <h1 align="center">I'm Anshika Gupta🎤</h1>
 
 <p align="center">I love to explore new technology🚀</p>
-<p align="center">Creating my own sunshine!! 🌈</p>
+<p align="center">Creating my own sunshine! 🌈</p>
 <br>
  <p align="center"><img src="https://github.com/codecShivam/codecShivam/blob/main/May-the-Open-Source-be-with-you-768x391.jpg" /> </p><br>
 
