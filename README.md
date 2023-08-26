@@ -3,7 +3,7 @@
 <h1 align="center">I'm Anshika Gupta !</h1>
 
 <p align="center">I love to explore new technology🚀</p>
-<p align="center">Creating my own Sunshine 🌈</p>
+<p align="center">Creating my own Sunshine🌈</p>
 <br>
 
 
