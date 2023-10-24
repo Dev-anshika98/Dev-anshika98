@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **g.anshikacreative@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/dev_anshika98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_anshika98" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anshika-gupta-597865260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshika-gupta-597865260" height="30" width="40" /></a>
