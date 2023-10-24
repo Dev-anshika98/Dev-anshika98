@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-anshika-portfolio.netlify.app/#/home](https://dev-anshika-portfolio.netlify.app/#/home)
 
-- 💬 Ask me about **Web development, UI/UX,C etc**
+- 💬 Ask me about **Web development, UI/UX,C, python etc**
 
 - 📫 How to reach me **g.anshikacreative@gmail.com**
 
