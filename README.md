@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://dev-anshika-portfolio.netlify.app/#/home](https://dev-anshika-portfolio.netlify.app/#/home)
+- 👨‍💻 All of my projects are available at [https://dev-anshika-portfolio.netlify.app/#/home](https://my-portfolio-kohl-gamma-32.vercel.app/)
 
 - 💬 Ask me about **Web development, UI/UX,C, python etc**
 
