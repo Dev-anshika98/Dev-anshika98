@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dev-anshika-portfolio.netlify.app/#/home](https://my-portfolio-kohl-gamma-32.vercel.app/)
 
-- 💬 Ask me about **Web development, UI/UX,C, python etc**
+- 💬 Ask me about **Web development, UI/UX, C, python , java etc**
 
 - 📫 How to reach me **g.anshikacreative@gmail.com**
 
