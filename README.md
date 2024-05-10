@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-kohl-gamma-32.vercel.app/](https://my-portfolio-kohl-gamma-32.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://dev-anshika98-portfolio.vercel.app/](https://dev-anshika98-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web development, UI/UX, C, python , java etc**
 
