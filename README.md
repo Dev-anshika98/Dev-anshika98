@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_anshika98" target="blank"><img src="https://img.shields.io/twitter/follow/dev_anshika98?logo=twitter&style=for-the-badge" alt="dev_anshika98" /></a> </p>
 
-- 🌱 I’m currently working on **ReactJs**
+- 🌱 I’m currently working on **Backend**
 
 - 👨‍💻 All of my projects are available at [https://dev-anshika98-portfolio.vercel.app/](https://dev-anshika98-portfolio.vercel.app/)
 
