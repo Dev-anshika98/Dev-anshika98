@@ -22,7 +22,7 @@
 
 
 ### 💻 Languages and ToolsI Use:<br>
-[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,nodejs,expressjs,mongodb,react,git,bootstrap,java,typescript,figma,firebase,materialui,threejs,vscode,linux )](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=c,html,css,tailwind,vite,javascript,nodejs,expressjs,mongodb,react,git,bootstrap,java,typescript,python,figma,firebase,materialui,threejs,vscode,linux )](https://skillicons.dev) 
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-anshika98&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="dev-anshika98" /></p>
 
