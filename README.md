@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **Backend**
 
-- 👨‍💻 All of my projects are available at [https://dev-anshika98-portfolio.vercel.app/](https://dev-anshika98-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://dev-anshikaportfolio.netlify.app/)
 
 - 💬 Ask me about **Web development, UI/UX, C, python , java etc**
 
